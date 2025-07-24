@@ -55,7 +55,7 @@ To run this project locally using Visual Studio 2022:
     * SQL Server LocalDB (usually installed with Visual Studio).
 2.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/kl99-chi/awesome-athletics-club-system.git](https://github.com/kl99-chi/awesome-athletics-club-system.git)
+    git clone https://github.com/kl99-chi/awesome-athletics-club-system.git
     ```
     (This URL uses your specific GitHub username and repository name.)
 3.  **Navigate to the project directory:**

@@ -12,7 +12,7 @@ This is a full-stack web application developed using ASP.NET Web Forms and C# wi
 - [Contact](#contact)
 
 ## Project Overview
-The AAC System provides a comprehensive solution for managing an athletics club. It allows administrators to handle member registrations, track product inventory, manage an online store, enable training slot bookings, generate various reports, and more, streamlining the club's operations.
+The AAC System provides a comprehensive solution for managing an athletics club. It allows administrators to handle member registrations, track product inventory, manage an online store, enable training slot bookings, generate various reports, and more, streamlining the club's operations. For more information you can check the AAC Documantation word document in the awesome-athletics-club-system repository.
 
 ## Features
 - **User Authentication:** Secure login and logout for administrators.

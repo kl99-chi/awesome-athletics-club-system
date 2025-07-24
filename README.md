@@ -86,4 +86,4 @@ For any questions or inquiries, please contact:
 - **LinkedIn:** www.linkedin.com/in/keletso-ramothibe-793583376
 
 ---
-© 2025 Keletso Ramothibe, Mahlatse Legodi, Nkululeko Mayisa, George Mashishi,	Nokukhanya Mlilwana, Kgalalelo Mokotediand and Ngazibini Ndwandwa. All rights reserved.
+© 2025 The Awesome Athletics Club System Project Group. All rights reserved.

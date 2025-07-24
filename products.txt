@@ -1,0 +1,13 @@
+AAC Bag, Price: R100,0000
+AAC Bandana, Price: R50,0000
+AAC Beanie, Price: R120,0000
+AAC Jersey (Unisex), Price: R250,0000
+AAC Running Long Tights (Kids), Price: R180,0000
+AAC Running Long Tights (Unisex), Price: R250,0000
+AAC Running Short Tights, Price: R180,0000
+AAC Running Vest, Price: R120,0000
+AAC Tracksuit Top, Price: R300,0000
+AAC Tracksuit Top (Kids), Price: R250,0000
+Short Sleeve Shirt (Kids), Price: R100,0000
+Short Sleeve Shirt (Men), Price: R150,0000
+Short Sleeve Shirt (Women), Price: R150,0000

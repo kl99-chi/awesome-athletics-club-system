@@ -72,7 +72,7 @@ To run this project locally using Visual Studio 2022:
     * Press `F5` or click the "IIS Express" button in Visual Studio to run the application.
 
 ## Group Members
-- Keletso Ramothibe - https://github.com/kl99-chi
+- Keletso Ramothibe (Group Leader) - https://github.com/kl99-chi
 - Mahlatse Legodi
 - Nkululeko Mayisa
 - George Mashishi

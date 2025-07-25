@@ -74,7 +74,7 @@ To run this project locally using Visual Studio 2022:
 ## Group Members
 - Keletso Ramothibe (Group Leader) - https://github.com/kl99-chi
 - Mahlatse Legodi
-- Nkululeko Mayisa
+- Nkululeko Mayisa - http://github.com/nkululekom15
 - George Mashishi
 - Nokukhanya Mlilwana
 - Kgalalelo Mokotedi
